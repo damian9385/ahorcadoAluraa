@@ -1,0 +1,63 @@
+*{
+    background-color: darkgray;
+  }
+  
+  .titulo {
+    padding: 15px;
+    width: 50vw;
+    margin: auto;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+  
+  }
+  
+  .btn {
+    border: 0;
+    color: white;
+    font-weight: bold;
+    background-color: blue;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 0.5em;
+  }
+  
+  .text-input {
+    border-radius: 0.5em;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    display: block;
+    padding: 0.5em;
+    width: 30%;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    background: white;
+  }
+  
+  #ahorcado{
+    border-radius: 0.5em;
+    border : 2px solid steelblue;
+    background-color: white;
+    stroke-width: 3px;
+  
+  }
+  
+  #frase{
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    text-shadow: 5px 5px 10px black;
+  }
+  
+  #vida{
+    padding: 15px;
+    margin: auto;
+    font-weight: bold;
+    font-size: large;
+    width: 30%;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
